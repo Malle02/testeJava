@@ -6,7 +6,7 @@ public class ProgConseiller {
 	{
 		int n;
 		boolean TestVide;
-		n = Saisie.lire_int("Combien de Comptes voulez vous créer");
+		n = Saisie.lire_int("Combien de Comptes voulez vous crÃ©er");
 		
 		 PortefeuilleClient MonPortefeuille = new PortefeuilleClient();
 		 
@@ -15,6 +15,10 @@ public class ProgConseiller {
 		 // Affiche de tous les objets de la collection 
 		 MonPortefeuille.AfficheTout();
 		 //  Test pour savoir si 
+
+
+
+		//tesete git
 		
 	}
 
